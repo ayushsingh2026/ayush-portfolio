@@ -6,7 +6,7 @@
         <h2 className="text-4xl font-bold text-center mb-8">About Me</h2>
 
         <p className="text-center text-gray-300 mb-8 leading-relaxed">
-          I'm Tarun Kaushik, a Full Stack & MERN Developer with a Master's degree in
+          I'm Ayush Singh, a Full Stack & MERN Developer with a Bachelore's degree in
           Computer Applications. I enjoy building scalable applications and solving
           real-world problems through clean code and innovative solutions.
         </p>

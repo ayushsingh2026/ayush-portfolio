@@ -32,10 +32,10 @@ function Navbar() {
         </ul>
 
         <div className="hidden md:flex gap-4 text-gray-300">
-          <a href="#" className="hover:text-white transition">
+          <a href="https://github.com/ayushsingh2026" className="hover:text-white transition">
             <Github size={20} />
           </a>
-          <a href="#" className="hover:text-white transition">
+          <a href="https://www.linkedin.com/in/ayush-singh-6703411b4/" className="hover:text-white transition">
             <Linkedin size={20} />
           </a>
         </div>
